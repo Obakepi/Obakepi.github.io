@@ -9,4 +9,4 @@ permalink: https://obakepi.github.io/resume
 ## Daniel Resume
 
 
-**Hello**
+**Best coder NA**
