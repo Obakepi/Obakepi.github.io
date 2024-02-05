@@ -5,3 +5,9 @@ plugins:
 title: Daniel's Site
 
 description: poopie butt
+
+
+
+layout: page
+title: "resume"
+permalink: https://obakepi.github.io/resume
