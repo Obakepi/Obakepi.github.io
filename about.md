@@ -1,7 +1,7 @@
 ## Daniel Blog
 
 
-Link to Resume
+
 [Resume](resume.md)
 
 
