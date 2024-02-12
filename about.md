@@ -1,5 +1,5 @@
 ## Daniel Blog
 
-I like cats... *meow meow*... __MEORRWWW MRRRROOWW MEOW__
+[Resume](resume.md)
 
 ![cat girl](Zerotwomain.webp)
