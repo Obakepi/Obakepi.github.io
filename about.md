@@ -3,7 +3,7 @@
 
 
 
-**Link to my resume** ---
+**Link to my resume** --->
 [Resume](resume.md)
 
 
