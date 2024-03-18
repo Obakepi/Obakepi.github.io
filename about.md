@@ -11,6 +11,8 @@ I think I could add on to this tool a lot and it could florish into something mu
 
 I have not tried anything as of right after spring break.
 
+I have yet to try the tool tkinter to make a gui in python.
+
 **Link to my resume** --->
 [Resume](resume.md)
 
